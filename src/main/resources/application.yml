@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: limits-svc
+
+limits-svc:
+  minimum: 10
+  maximum: 9999
